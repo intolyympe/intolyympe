@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- Header animé -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2744,100:3d7ebf&height=200&section=header&text=intolyympe&fontSize=60&fontColor=00c8dc&fontAlignY=38&desc=Leslye%20Jeannin%20·%20Epitech%20Réunion&descAlignY=60&descColor=a0c8e8&animation=fadeIn" />
@@ -7,7 +5,7 @@
 
 <!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&duration=3000&pause=1000&color=00C8DC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+training;Epitech+·+Amazon+Future+Engineer;Node.js+%2F+React+%2F+PostgreSQL+%2F+Docker;Always+learning%2C+always+building." />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&duration=3000&pause=1000&color=00C8DC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+training;Epitech+%C2%B7+Amazon+Future+Engineer;Node.js+%2F+React+%2F+PostgreSQL+%2F+Docker;Always+learning%2C+always+building." />
 </div>
 
 <br/>
