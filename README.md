@@ -11,13 +11,6 @@
 <br/>
 
 <!-- About -->
-<div align="center">
-
-```
-  Étudiante Epitech Réunion · Boursière Amazon Future Engineer
-  Stage ARIPA — app métier full-stack en production (6 mois)
-  Curieuse de tout : dev, cybersécurité, DevOps
-```
 
 </div>
 
@@ -25,7 +18,7 @@
 
 ---
 
-## ⚡ Stats
+## Stats
 
 <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=intolyympe&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=1a2744&title_color=00c8dc&icon_color=3d7ebf&text_color=a0c8e8&hide_border=false&count_private=true" />
@@ -42,11 +35,11 @@
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 <div align="center">
 
-**Back-end**
+**Back-end*
 
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00c8dc)
 ![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=00c8dc)
@@ -58,7 +51,6 @@
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00c8dc)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f0c800)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=3d7ebf)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=3d7ebf)
 
 **Base de données & DevOps**
 
@@ -79,20 +71,7 @@
 
 ---
 
-## 🚀 Projets récents
-
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| 🏢 **ARIPA** *(stage)* | App web interne de gestion — adhérents, factures, paiements — en production | Node.js · React · PostgreSQL · Docker |
-| 🏆 **Innovatech 2025** | Coup de cœur du jury — app mobile culture des plantes (équipe 6) | React Native |
-| ⚡ **24h Webcup 2025** | Site full-stack développé en binôme en 24h | Node.js · React |
-| 🎮 **[MAT-101pong](https://github.com/intolyympe/MAT-101pong)** | Pong 2D avec visualisation des maths en temps réel — [jouer ici](https://intolyympe.itch.io/101pong-2d-pong) | Python · JS Canvas |
-
-<br/>
-
----
-
-## 📬 Contact
+## Contact
 
 <div align="center">
 
