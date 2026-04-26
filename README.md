@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&duration=3000&pause=1000&color=00C8DC&center=true&vCenter=true&width=600&lines=Epitech+%C2%B7+Amazon+Future+Engineer;Full-Stack+Developer+in+training+%E2%86%92+intolyympe.itch.io;CyberSec+Explorer+%C2%B7+Always+learning;Not+perfect%2C+but+at+least+it+exists+%E2%86%92+intolyympe.vercel.app" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=22&duration=3000&pause=1000&color=00C8DC&center=true&vCenter=true&width=600&lines=Epitech+%C2%B7+Amazon+Future+Engineer;Developer+in+training+%E2%86%92+intolyympe.itch.io;CyberSec+Explorer+%C2%B7+Always+learning;Not+perfect%2C+but+at+least+it+exists+%E2%86%92+intolyympe.vercel.app" />
 </div>
 
 <br/>
