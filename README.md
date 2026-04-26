@@ -30,14 +30,14 @@
 ## ⚡ Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=olyyistaken&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=1a2744&title_color=00c8dc&icon_color=3d7ebf&text_color=a0c8e8&hide_border=false&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olyyistaken&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=1a2744&title_color=00c8dc&text_color=a0c8e8&hide_border=false&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=intolyympe&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=1a2744&title_color=00c8dc&icon_color=3d7ebf&text_color=a0c8e8&hide_border=false&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=intolyympe&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=1a2744&title_color=00c8dc&text_color=a0c8e8&hide_border=false&langs_count=8" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=olyyistaken&theme=tokyonight&background=0d1117&border=1a2744&stroke=3d7ebf&ring=00c8dc&fire=f0c800&currStreakLabel=00c8dc&sideLabels=a0c8e8&dates=555555" />
+  <img src="https://streak-stats.demolab.com?user=intolyympe&theme=tokyonight&background=0d1117&border=1a2744&stroke=3d7ebf&ring=00c8dc&fire=f0c800&currStreakLabel=00c8dc&sideLabels=a0c8e8&dates=555555" />
 </div>
 
 <br/>
@@ -88,7 +88,7 @@
 | 🏢 **ARIPA** *(stage)* | App web interne de gestion — adhérents, factures, paiements — en production | Node.js · React · PostgreSQL · Docker |
 | 🏆 **Innovatech 2025** | Coup de cœur du jury — app mobile culture des plantes (équipe 6) | React Native |
 | ⚡ **24h Webcup 2025** | Site full-stack développé en binôme en 24h | Node.js · React |
-| 🎮 **[MAT-101pong](https://github.com/olyyistaken/MAT-101pong)** | Pong 2D avec visualisation des maths en temps réel — [jouer ici](https://intolyympe.itch.io/101pong-2d-pong) | Python · JS Canvas |
+| 🎮 **[MAT-101pong](https://github.com/intolyympe/MAT-101pong)** | Pong 2D avec visualisation des maths en temps réel — [jouer ici](https://intolyympe.itch.io/101pong-2d-pong) | Python · JS Canvas |
 
 <br/>
 
