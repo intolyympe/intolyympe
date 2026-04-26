@@ -39,28 +39,16 @@
 
 <div align="center">
 
-**Back-end*
-
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00c8dc)
 ![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=00c8dc)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3d7ebf)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=3d7ebf)
-
-**Front-end**
-
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00c8dc)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=f0c800)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=3d7ebf)
-
-**Base de données & DevOps**
-
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3d7ebf)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=3d7ebf)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00c8dc)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=3d7ebf)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=f0c800)
 ![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=for-the-badge&logo=jenkins&logoColor=a0c8e8)
-
-**Cybersécurité**
-
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00c8dc)
 ![HackTheBox](https://img.shields.io/badge/HackTheBox-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9fef00)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=a0c8e8)
